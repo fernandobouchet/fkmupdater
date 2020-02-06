@@ -1,3 +1,6 @@
-- Upstreamed To Latest Linux 4.4.212
+- Upstreamed To Latest Linux 4.4.213
+- Updated SdFat
+- Updated AnyKernel3
+- Some misc updates & cleanup
 
 REMEMBER THERE ARE BUILDS WITH NEW CAM BLOBS COMPATIBLE,CHECK FOR "NEWCAM" VERSION IN GITHUB RELEASES
