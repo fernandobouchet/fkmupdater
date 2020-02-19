@@ -1,6 +1,4 @@
-- Upstreamed To Latest Linux 4.4.213
-- Updated SdFat
-- Updated AnyKernel3
-- Some misc updates & cleanup
+- Upstreamed To Latest Linux 4.4.214
+- Upstreamed Wifi Tag to LA.UM.7.2.r1-08200-sdm660.0
 
 REMEMBER THERE ARE BUILDS WITH NEW CAM BLOBS COMPATIBLE,CHECK FOR "NEWCAM" VERSION IN GITHUB RELEASES
