@@ -1,8 +1,4 @@
-- Upstreamed To Latest Linux 4.4.215
-
-EAS :
-
-- Updated Energy Model With The sdm660 From Caf 4.14
+- Upstreamed To Latest Linux 4.4.216
 
 
 REMEMBER THERE ARE BUILDS WITH NEW CAM BLOBS COMPATIBLE,CHECK FOR "NEWCAM" VERSION IN GITHUB RELEASES
