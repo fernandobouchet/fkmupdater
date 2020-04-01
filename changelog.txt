@@ -1,9 +1,6 @@
-- Upstreamed To Latest Linux 4.4.217
-- Updated WireGuard to latest snapshot
-- Build whit clang 10.0.4
-- Upstreamed Kernel Tag to LA.UM.8.2.r2-01100-sdm660.0
-- Upstreamed Wifi Tag to LA.UM.7.2.r3-00700-sdm660.0
-- Some misc updates & cleanup
+- Upstreamed Wifi Tag to LA.UM.7.2.c6-05400-sdm660.0
+- Fixed WireGuard
+- Fixed front cam in Gcam
 
 
 REMEMBER THERE ARE BUILDS WITH NEW CAM BLOBS COMPATIBLE,CHECK FOR "NEWCAM" VERSION IN GITHUB RELEASES
