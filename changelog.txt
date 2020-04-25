@@ -1,6 +1,4 @@
-- Upstreamed To Latest Linux 4.4.219
-- Updated Wireguard To "1.0.20200401"
-
-NOTICE:
-
-FROM NEXT RELEASE FKM SUPPORT WILL BE FOR NEW-CAMERA RELEASES ONLY - OLD-CAM BUILDS WILL BE DROPPED SOON.
+- Upstreamed To Latest Linux 4.4.220
+- Build whit clang 10.0.5
+- Upstreamed Kernel Tag to LA.UM.8.2.r2-01300-sdm660.0
+- Upstreamed Wifi Tag to LA.UM.7.2.r3-00900-sdm660.0
