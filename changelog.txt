@@ -1,4 +1,4 @@
-- Upstreamed To Latest Linux 4.4.220
-- Build whit clang 10.0.5
-- Upstreamed Kernel Tag to LA.UM.8.2.r2-01300-sdm660.0
-- Upstreamed Wifi Tag to LA.UM.7.2.r3-00900-sdm660.0
+- Upstreamed To Latest Linux 4.4.221
+- Upstreamed Kernel Tag to LA.UM.8.2.r1-06500-sdm660.0
+- Added oreo firmware support
+- Added some little cpu OC
