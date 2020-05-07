@@ -1,7 +1,7 @@
 {
   "kernel": {
     "name": "Extended Kernel EAS NEWCAM for Whyred",
-    "version": "V38ñ9",
+    "version": "V39",
     "link": "https://github.com/attack11/Whyred/releases/download/V39-EAS/Extended-Kernel-EAS-NEWCAM-V39.zip",
     "changelog_url": "https://raw.githubusercontent.com/attack11/fkmupdater/Extended-Whyred/changelog.txt",
     "date": "2020-05-07",
