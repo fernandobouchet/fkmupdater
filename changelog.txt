@@ -1,4 +1,2 @@
-- Upstreamed To Latest Linux 4.4.221
-- Upstreamed Kernel Tag to LA.UM.8.2.r1-06500-sdm660.0
-- Added oreo firmware support
-- Added some little cpu OC
+- Upstreamed To Latest Linux 4.4.222
+- Updated Wireguard To Latest "1.0.20200506"
