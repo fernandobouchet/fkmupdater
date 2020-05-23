@@ -1,1 +1,4 @@
-- Upstreamed To Latest Linux 4.4.223
+- Upstreamed To Latest Linux 4.4.224
+- Upstreamed Kernel Tag to LA.UM.8.2.r2-01900-sdm660.0
+- Upstreamed Wifi Tag to LA.UM.7.2.r3-01000-sdm660.0
+- Added builds based on sdm660 common kernel tree (in testing)
