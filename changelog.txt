@@ -1,4 +1,6 @@
-- Upstreamed To Latest Linux 4.4.224
-- Upstreamed Kernel Tag to LA.UM.8.2.r2-01900-sdm660.0
-- Upstreamed Wifi Tag to LA.UM.7.2.r3-01000-sdm660.0
-- Added builds based on sdm660 common kernel tree (in testing)
+ - Upstreamed To Latest Linux 4.4.225
+- Upstreamed Kernel Tag to LA.UM.8.2.r1-06600-sdm660.0
+- Build with clang 10.0.6
+- Added support for roms based on common tree (led fix thanks to agni)
+- Disable some logging
+- Some misc updates & cleanup

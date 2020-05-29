@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Extended Kernel HMP NEWCAM for Whyred",
-    "version": "V41",
-    "link": "https://github.com/attack11/Whyred/releases/download/V41-HMP/Extended-Kernel-HMP-NEWCAM-V41.zip",
+    "version": "V42",
+    "link": "https://github.com/attack11/Whyred/releases/download/V42-HMP/Extended-Kernel-HMP-NEWCAM-V42.zip",
     "changelog_url": "https://raw.githubusercontent.com/attack11/fkmupdater/Extended-Whyred/changelog.txt",
-    "date": "2020-05-23",
-    "sha1": "fbdcb40b023179348205dc679f35ad14ca2f4556"
+    "date": "2020-05-29",
+    "sha1": "d30e839a60e80c06ca3fcccf8d0aec686fa15419"
   },
   "support": {
     "link": "https://forum.xda-developers.com/redmi-note-5-pro/development/kernel-extended-kernel-t3953709"

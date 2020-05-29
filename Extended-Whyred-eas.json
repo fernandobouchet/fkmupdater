@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Extended Kernel EAS for Whyred",
-    "version": "V41",
-    "link": "https://github.com/attack11/Whyred/releases/download/V41-EAS/Extended-Kernel-EAS-V41.zip",
+    "version": "V42",
+    "link": "https://github.com/attack11/Whyred/releases/download/V42-EAS/Extended-Kernel-EAS-V42.zip",
     "changelog_url": "https://raw.githubusercontent.com/attack11/fkmupdater/Extended-Whyred/changelog.txt",
-    "date": "2020-05-23",
-    "sha1": "d510f6121e3734d466d0cafc47823cf095a19b16"
+    "date": "2020-05-29",
+    "sha1": "cd16de3b51bcba251891c7ac5ee9765ef452a944"
   },
   "support": {
     "link": "https://forum.xda-developers.com/redmi-note-5-pro/development/kernel-extended-kernel-t3953709"
