@@ -1,4 +1,4 @@
-- Upstreamed To Latest Linux 4.4.226
-- Upstreamed Kernel Tag to LA.UM.8.2.1.r1-04900-sdm660.0
-- Upstreamed Wifi Tag to LA.UM.7.2.c7-01400-sdm660.0
-- Fixed cam frezzes
+- Upstreamed To Latest Linux 4.4.227
+- Upstreamed Kernel Tag to LA.UM.8.2.r1-06700-sdm660.0
+- Upstreamed Wifi Tag to LA.UM.7.2.r1-08900-sdm660.0
+- Some cleanup in the sources (trying to fix the random bootloop bug)
