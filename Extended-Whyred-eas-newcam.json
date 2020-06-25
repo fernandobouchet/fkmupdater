@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Extended Kernel EAS NEWCAM for Whyred",
-    "version": "V44",
-    "link": "https://github.com/attack11/Whyred/releases/download/V44-EAS/Extended-Kernel-EAS-NEWCAM-V44.zip",
+    "version": "V45",
+    "link": "https://github.com/attack11/Whyred/releases/download/V45-EAS/Extended-Kernel-EAS-NEWCAM-V45.zip",
     "changelog_url": "https://raw.githubusercontent.com/attack11/fkmupdater/Extended-Whyred/changelog.txt",
-    "date": "2020-06-14",
-    "sha1": "affb634acddc46ef0d1d7ec81ff93d2ef00236ac"
+    "date": "2020-06-24",
+    "sha1": "791621fd00299d3cf1685bc3587aa76cfa316a82"
   },
   "support": {
     "link": "https://forum.xda-developers.com/redmi-note-5-pro/development/kernel-extended-kernel-t3953709"
