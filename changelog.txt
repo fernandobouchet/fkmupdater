@@ -1,4 +1,7 @@
-- Upstreamed To Latest Linux 4.4.228
-- Upstreamed Kernel Tag to LA.UM.8.2.r1-06900-sdm660.0
-- Upstreamed Wifi Tag to LA.UM.7.2.r3-01100-sdm660.0
-- Updated wireguard to "1.0.20200623"
+- Upstreamed To Latest Linux 4.4.229
+- Compiled With Clang 11.0.1
+- Some Build Warnings Fixes
+- Removed msm_rtb Register
+- Upstreamed Kernel Tag to LA.UM.8.2.r2-02100-sdm660.0
+- Upstream Updates To f2fs
+- Switch From Sdfat To Exfat Driver
