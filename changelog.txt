@@ -1,7 +1,6 @@
-- Upstreamed To Latest Linux 4.4.229
-- Compiled With Clang 11.0.1
-- Some Build Warnings Fixes
-- Removed msm_rtb Register
-- Upstreamed Kernel Tag to LA.UM.8.2.r2-02100-sdm660.0
-- Upstream Updates To f2fs
-- Switch From Sdfat To Exfat Driver
+- Upstreamed To Latest Linux 4.4.230
+- Updated wireguard to "1.0.20200712"
+- Removed a LOT of debug
+- Disable audit
+- Memory leak fixes
+- Removed OC

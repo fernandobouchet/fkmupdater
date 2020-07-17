@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Extended Kernel HMP for Whyred",
-    "version": "V46",
-    "link": "https://github.com/attack11/Whyred/releases/download/V46-HMP/Extended-Kernel-HMP-V46.zip",
+    "version": "V47",
+    "link": "https://github.com/attack11/Whyred/releases/download/V47-HMP/Extended-Kernel-HMP-V47.zip",
     "changelog_url": "https://raw.githubusercontent.com/attack11/fkmupdater/Extended-Whyred/changelog.txt",
-    "date": "2020-07-05",
-    "sha1": "39f2cb7e0028fe6996a3e9997540c3ea415cd029"
+    "date": "2020-07-16",
+    "sha1": "bd7269365e4c86213f0b6e24ae6b68bd4b96814f"
   },
   "support": {
     "link": "https://forum.xda-developers.com/redmi-note-5-pro/development/kernel-extended-kernel-t3953709"
