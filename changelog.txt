@@ -1,6 +1,6 @@
-- Upstreamed To Latest Linux 4.4.230
-- Updated wireguard to "1.0.20200712"
-- Removed a LOT of debug
-- Disable audit
-- Memory leak fixes
-- Removed OC
+- Upstreamed To Latest Linux 4.4.232
+- Upstreamed Kernel Tag to LA.UM.8.2.r1-07100-sdm660.0
+- Updated wireguard to "1.0.20200729"
+- Added AOSPA's dt2w support
+- Added LiveDisplay driver
+- "Fixed" drivedroid support
