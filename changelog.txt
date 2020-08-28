@@ -1,4 +1,4 @@
-- Upstreamed To Latest Linux 4.4.233
-- Upstreamed Kernel Tag to LA.UM.8.2.r1-07200-sdm660.0
-- Reverted WiFi stack to LA.UM.7.2.r1-07200-sdm660.0
-- Built with latest proton clang (clang 12.0)
+- Upstreamed To Latest Linux 4.4.234
+- Added back backlight dimmer
+- For hmp builds: Try to fallback to interactive governor after boot always
+- Some misc updates
