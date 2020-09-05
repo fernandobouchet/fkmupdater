@@ -1,4 +1,1 @@
-- Upstreamed To Latest Linux 4.4.234
-- Added back backlight dimmer
-- For hmp builds: Try to fallback to interactive governor after boot always
-- Some misc updates
+- Upstreamed To Latest Linux 4.4.235
