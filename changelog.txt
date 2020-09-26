@@ -1,3 +1,1 @@
-- Upstreamed To Latest Linux 4.4.236
-- Upstreamed Kernel Tag To "LA.UM.8.2.r2-02700-sdm660.0"
-- Updated Wireguard To "1.0.20200908"
+- Upstreamed To Latest Linux 4.4.237
