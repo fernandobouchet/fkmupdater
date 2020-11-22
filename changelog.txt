@@ -1,5 +1,2 @@
-- Upstreamed To Latest Linux 4.4.243
-- Updated Wireguard to latest snapshot
-- Some misc updates and Cleanup.
-
-- Added my personal build,with some experimental stuff,mostly a lot (or almost all) optimizations from sultanxda kernel,its eas- oldcam , compiled with latest gcc & LTO,along with some other experimental stuff just for testing
+- Upstreamed To Latest Linux 4.4.244
+- Updated WiFi drivers to "LA.UM.7.2.r1-09600-sdm660.0"
