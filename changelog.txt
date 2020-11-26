@@ -1,2 +1,4 @@
-- Upstreamed To Latest Linux 4.4.244
-- Updated WiFi drivers to "LA.UM.7.2.r1-09600-sdm660.0"
+- Upstreamed To Latest Linux 4.4.246
+- Upstreamed Kernel To "LA.UM.8.2.r1-07500-sdm660.0"
+- Added again my personal build's for testing (old & newcam) (check personal2 branch)
+- Added an addon for Overclock to flash after the kernel (check telegram group for link)
