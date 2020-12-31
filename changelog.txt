@@ -1,1 +1,2 @@
-- Upstreamed To Latest Linux 4.4.248
+- Upstreamed To Latest Linux 4.4.249
+- Updated wireguard to "1.0.20201221"
