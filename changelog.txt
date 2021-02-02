@@ -1,4 +1,1 @@
-- Upstreamed To Latest Linux 4.4.252
-- Reverted WiFi stack to LA.UM.7.2.r1-07200-sdm660.0
-
-
+- Upstreamed To Latest Linux 4.4.254
