@@ -1,1 +1,3 @@
-- Upstreamed To Latest Linux 4.4.254
+- Upstreamed To Latest Linux 4.4.255
+- Back again to "LA.UM.7.2.r1-09600-sdm660.0" WiFi stack
+- Updated wireguard to "1.0.20210124"
