@@ -1,1 +1,2 @@
-- Upstreamed To Latest Linux 4.4.259
+- Upstreamed To Latest Linux 4.4.262
+- Reverted some caf commits that caused conflicts with Xiaomi charging implementation
