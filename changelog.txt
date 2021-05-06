@@ -1,2 +1,1 @@
-- Upstreamed To Latest Linux 4.4.267
-- Upstreamed Kernel To "LA.UM.9.2.r1-03000-SDMxx0.0"
+- Upstreamed To Latest Linux 4.4.268
